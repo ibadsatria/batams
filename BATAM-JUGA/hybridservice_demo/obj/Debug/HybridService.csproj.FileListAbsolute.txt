@@ -1,0 +1,4 @@
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\hybridservice_demo\bin\Debug\HybridService.exe
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\hybridservice_demo\bin\Debug\HybridService.pdb
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\hybridservice_demo\obj\Debug\HybridService.exe
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\hybridservice_demo\obj\Debug\HybridService.pdb

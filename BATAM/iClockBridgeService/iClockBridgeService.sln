@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iClockBridgeService", "iClockBridgeService.csproj", "{BC7AB6A4-B337-45C1-BBFE-6BDCE96C2509}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PushUsersTask", "..\PushUsersTask\PushUsersTask.csproj", "{5861332B-3394-4548-A1D8-06F83F537E67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC7AB6A4-B337-45C1-BBFE-6BDCE96C2509}.Debug|x86.ActiveCfg = Debug|x86
+		{BC7AB6A4-B337-45C1-BBFE-6BDCE96C2509}.Debug|x86.Build.0 = Debug|x86
+		{BC7AB6A4-B337-45C1-BBFE-6BDCE96C2509}.Release|x86.ActiveCfg = Release|x86
+		{BC7AB6A4-B337-45C1-BBFE-6BDCE96C2509}.Release|x86.Build.0 = Release|x86
+		{5861332B-3394-4548-A1D8-06F83F537E67}.Debug|x86.ActiveCfg = Debug|x86
+		{5861332B-3394-4548-A1D8-06F83F537E67}.Debug|x86.Build.0 = Debug|x86
+		{5861332B-3394-4548-A1D8-06F83F537E67}.Release|x86.ActiveCfg = Release|x86
+		{5861332B-3394-4548-A1D8-06F83F537E67}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

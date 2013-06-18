@@ -1,0 +1,1 @@
+20130614175252: ERROR: ConnectDevice, Unable to connect the device,ErrorCode=-7

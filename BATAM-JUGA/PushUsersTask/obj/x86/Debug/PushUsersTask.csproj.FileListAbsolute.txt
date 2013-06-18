@@ -1,0 +1,12 @@
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\PushUsersTask\obj\x86\Debug\Interop.zkemkeeper.dll
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\PushUsersTask\obj\x86\Debug\PushUsersTask.csproj.ResolveComReference.cache
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\PushUsersTask\bin\Debug\PushUsersTask.exe
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\PushUsersTask\bin\Debug\PushUsersTask.pdb
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\PushUsersTask\bin\Debug\Interop.zkemkeeper.dll
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\PushUsersTask\obj\x86\Debug\PushUsersTask.exe
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\PushUsersTask\obj\x86\Debug\PushUsersTask.pdb
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\PushUsersTask\obj\x86\Debug\PushUsersTask.csprojResolveAssemblyReference.cache
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\PushUsersTask\bin\Debug\DbConnPostgre.dll
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\PushUsersTask\bin\Debug\Npgsql.dll
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\PushUsersTask\bin\Debug\Mono.Security.dll
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\PushUsersTask\bin\Debug\DbConnPostgre.pdb

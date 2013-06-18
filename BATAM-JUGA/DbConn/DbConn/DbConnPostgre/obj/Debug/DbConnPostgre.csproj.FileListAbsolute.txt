@@ -1,0 +1,35 @@
+D:\Kerjaan\CarlaDevDBInject\DbConnPostgre\obj\Debug\ResolveAssemblyReference.cache
+D:\Kerjaan\CarlaDevDBInject\DbConnPostgre\bin\Debug\DbConnPostgre.dll
+D:\Kerjaan\CarlaDevDBInject\DbConnPostgre\bin\Debug\DbConnPostgre.pdb
+D:\Kerjaan\CarlaDevDBInject\DbConnPostgre\bin\Debug\Mono.Security.dll
+D:\Kerjaan\CarlaDevDBInject\DbConnPostgre\bin\Debug\Npgsql.dll
+D:\Kerjaan\CarlaDevDBInject\DbConnPostgre\bin\Debug\Npgsql.pdb
+D:\Kerjaan\CarlaDevDBInject\DbConnPostgre\bin\Debug\Npgsql.xml
+D:\Kerjaan\CarlaDevDBInject\DbConnPostgre\obj\Debug\DbConnPostgre.dll
+D:\Kerjaan\CarlaDevDBInject\DbConnPostgre\obj\Debug\DbConnPostgre.pdb
+E:\Kerjaan\iconOX\DEMO MIMA\DbConnPostgre\bin\Debug\DbConnPostgre.dll
+E:\Kerjaan\iconOX\DEMO MIMA\DbConnPostgre\bin\Debug\DbConnPostgre.pdb
+E:\Kerjaan\iconOX\DEMO MIMA\DbConnPostgre\obj\Debug\ResolveAssemblyReference.cache
+E:\Kerjaan\iconOX\DEMO MIMA\DbConnPostgre\obj\Debug\DbConnPostgre.dll
+E:\Kerjaan\iconOX\DEMO MIMA\DbConnPostgre\obj\Debug\DbConnPostgre.pdb
+D:\IconOx Development Lanjutan\Source Joko\DEMO MIMA\DbConnPostgre\bin\Debug\DbConnPostgre.dll
+D:\IconOx Development Lanjutan\Source Joko\DEMO MIMA\DbConnPostgre\bin\Debug\DbConnPostgre.pdb
+D:\IconOx Development Lanjutan\Source Joko\DEMO MIMA\DbConnPostgre\bin\Debug\Npgsql.pdb
+D:\IconOx Development Lanjutan\Source Joko\DEMO MIMA\DbConnPostgre\bin\Debug\Npgsql.xml
+D:\IconOx Development Lanjutan\Source Joko\DEMO MIMA\DbConnPostgre\obj\Debug\ResolveAssemblyReference.cache
+D:\IconOx Development Lanjutan\Source Joko\DEMO MIMA\DbConnPostgre\obj\Debug\DbConnPostgre.dll
+D:\IconOx Development Lanjutan\Source Joko\DEMO MIMA\DbConnPostgre\obj\Debug\DbConnPostgre.pdb
+D:\IconOx Development Lanjutan\CreateSAMCard\Issuer KMS\WindowsFormsApplication1\DbConnPostgre\bin\Debug\DbConnPostgre.dll
+D:\IconOx Development Lanjutan\CreateSAMCard\Issuer KMS\WindowsFormsApplication1\DbConnPostgre\bin\Debug\DbConnPostgre.pdb
+D:\IconOx Development Lanjutan\CreateSAMCard\Issuer KMS\WindowsFormsApplication1\DbConnPostgre\obj\Debug\ResolveAssemblyReference.cache
+D:\IconOx Development Lanjutan\CreateSAMCard\Issuer KMS\WindowsFormsApplication1\DbConnPostgre\obj\Debug\DbConnPostgre.dll
+D:\IconOx Development Lanjutan\CreateSAMCard\Issuer KMS\WindowsFormsApplication1\DbConnPostgre\obj\Debug\DbConnPostgre.pdb
+D:\Work\Absensi\DbConn\DbConnPostgre\bin\Debug\DbConnPostgre.dll
+D:\Work\Absensi\DbConn\DbConnPostgre\bin\Debug\DbConnPostgre.pdb
+D:\Work\Absensi\DbConn\DbConnPostgre\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Absensi\DbConn\DbConnPostgre\obj\Debug\DbConnPostgre.dll
+D:\Work\Absensi\DbConn\DbConnPostgre\obj\Debug\DbConnPostgre.pdb
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\DbConn\DbConn\DbConnPostgre\bin\Debug\DbConnPostgre.dll
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\DbConn\DbConn\DbConnPostgre\bin\Debug\DbConnPostgre.pdb
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\DbConn\DbConn\DbConnPostgre\obj\Debug\DbConnPostgre.dll
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\DbConn\DbConn\DbConnPostgre\obj\Debug\DbConnPostgre.pdb

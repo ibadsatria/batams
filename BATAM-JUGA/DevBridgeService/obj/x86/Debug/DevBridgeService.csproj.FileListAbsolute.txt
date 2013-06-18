@@ -1,0 +1,6 @@
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\DevBridgeService\bin\Debug\DevBridgeService.exe
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\DevBridgeService\bin\Debug\DevBridgeService.pdb
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\DevBridgeService\obj\x86\Debug\DevBridgeService.exe
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\DevBridgeService\obj\x86\Debug\DevBridgeService.pdb
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\DevBridgeService\obj\x86\Debug\DevBridgeService.DevService.resources
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\DevBridgeService\obj\x86\Debug\DevBridgeService.csproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+D:\Dokumen\Projects\AbsensiBATAM\devBridge\bin\Debug\devBridge.exe
+D:\Dokumen\Projects\AbsensiBATAM\devBridge\bin\Debug\devBridge.pdb
+D:\Dokumen\Projects\AbsensiBATAM\devBridge\obj\x86\Debug\devBridge.exe
+D:\Dokumen\Projects\AbsensiBATAM\devBridge\obj\x86\Debug\devBridge.pdb
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\devBridge\obj\x86\Debug\devBridge.exe
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\devBridge\obj\x86\Debug\devBridge.pdb
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\devBridge\bin\Debug\devBridge.exe
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\devBridge\bin\Debug\devBridge.pdb

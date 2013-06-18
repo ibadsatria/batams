@@ -1,0 +1,58 @@
+﻿Installing assembly 'D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.InstallLog
+   assemblypath = D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.exe
+Installing service iCLockBridgeService...
+Creating EventLog source iCLockBridgeService in log Application...
+Rolling back assembly 'D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.InstallLog
+   assemblypath = D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.exe
+Restoring event log to previous state for source iCLockBridgeService.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.InstallLog
+   assemblypath = D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.exe
+Installing service iCLockBridgeService...
+Service iCLockBridgeService has been successfully installed.
+Creating EventLog source iCLockBridgeService in log Application...
+Committing assembly 'D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.InstallLog
+   assemblypath = D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.exe
+Uninstalling assembly 'D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.InstallLog
+   assemblypath = D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.exe
+Removing EventLog source iCLockBridgeService.
+Service iCLockBridgeService is being removed from the system...
+Service iCLockBridgeService was successfully removed from the system.
+Installing assembly 'D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.InstallLog
+   assemblypath = D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.exe
+Installing service iClockBridge Service...
+Service iClockBridge Service has been successfully installed.
+Creating EventLog source iClockBridge Service in log Application...
+Committing assembly 'D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.InstallLog
+   assemblypath = D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.exe
+Uninstalling assembly 'D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.InstallLog
+   assemblypath = D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.exe
+Removing EventLog source iClockBridge Service.
+Service iClockBridge Service is being removed from the system...
+Service iClockBridge Service was successfully removed from the system.

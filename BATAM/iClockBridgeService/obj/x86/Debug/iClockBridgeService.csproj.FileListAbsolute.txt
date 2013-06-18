@@ -1,0 +1,7 @@
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.exe
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\iClockBridgeService.pdb
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\obj\x86\Debug\iClockBridgeService.exe
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\obj\x86\Debug\iClockBridgeService.pdb
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\obj\x86\Debug\Interop.zkemkeeper.dll
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\obj\x86\Debug\iClockBridgeService.csproj.ResolveComReference.cache
+D:\Dokumen\Projects\AbsensiBATAM\DotNetBridge\iClockBridgeService\bin\Debug\Interop.zkemkeeper.dll

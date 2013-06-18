@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoytSoft.ServiceProcess", "Service Base\HoytSoft.ServiceProcess.csproj", "{7818CC36-4D2E-4F20-AC36-1818D5CADF50}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoytSoft.Example", "Example\HoytSoft.Example.csproj", "{0B485A44-C9B7-468F-B06B-AF648846F7D4}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{7818CC36-4D2E-4F20-AC36-1818D5CADF50}.Debug.ActiveCfg = Debug|.NET
+		{7818CC36-4D2E-4F20-AC36-1818D5CADF50}.Debug.Build.0 = Debug|.NET
+		{7818CC36-4D2E-4F20-AC36-1818D5CADF50}.Release.ActiveCfg = Release|.NET
+		{7818CC36-4D2E-4F20-AC36-1818D5CADF50}.Release.Build.0 = Release|.NET
+		{0B485A44-C9B7-468F-B06B-AF648846F7D4}.Debug.ActiveCfg = Debug|.NET
+		{0B485A44-C9B7-468F-B06B-AF648846F7D4}.Debug.Build.0 = Debug|.NET
+		{0B485A44-C9B7-468F-B06B-AF648846F7D4}.Release.ActiveCfg = Release|.NET
+		{0B485A44-C9B7-468F-B06B-AF648846F7D4}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		XCSharpSolutionEnabled = True
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
